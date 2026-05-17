@@ -172,8 +172,6 @@ All screenshots documenting each phase of the build are included in the `/screen
 - [ ] Project 2: Add a Windows 10 client VM and join it to `mayanklab.local`
 - [ ] Project 3: Simulate helpdesk scenarios (account lockouts, password resets)
 - [ ] Project 4: Network troubleshooting between DC01 and client VM
-- [ ] CompTIA Network+ certification
-- [ ] MS-900 Microsoft 365 Fundamentals certification
 
 ---
 
