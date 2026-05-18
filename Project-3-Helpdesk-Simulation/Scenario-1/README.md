@@ -6,7 +6,7 @@ A user (John Smith) repeatedly enters the wrong password and gets locked out of 
 ---
 
 ## Tools Used
-- Group Policy Management Editor (DC01)
+- Group Policy Management Editor (DC01) 
 - Active Directory Users and Computers (DC01)
 - Command Prompt — `gpupdate /force` (DC01 and Client01)
 
