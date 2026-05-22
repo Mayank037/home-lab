@@ -2,7 +2,7 @@
 
 **Built by:** Mayank Rale  
 **GitHub:** [github.com/Mayank037/home-lab](https://github.com/Mayank037/home-lab)  
-**Platform:** Oracle VirtualBox on Windows 11  
+**Platform:** Oracle VirtualBox on Windows 11
 
 ---
 
@@ -20,6 +20,9 @@ Each project is self-contained with its own README and screenshots folder.
 |---|---|---|---|
 | 1 | [Active Directory Home Lab](./Project-1-Active-Directory/README.md) | ✅ Complete | Windows Server 2022, AD DS, GPO, DNS, OUs, User Provisioning |
 | 2 | [Domain Join — Windows 10 Client](./Project-2-Domain-Join/README.md) | ✅ Complete | VirtualBox Networking, Static IP, Domain Join, AD Authentication |
+| 3 | [Helpdesk Simulation Scenarios](./Project-3-Helpdesk-Simulation/README.md) | ✅ Complete | Account Lockout, Password Reset, User Onboarding, Disable/Enable |
+| 4 | [Network Troubleshooting](./Project-4-Network-Troubleshooting/README.md) | ✅ Complete | ping, ipconfig, nslookup, tracert, Firewall Rules, DNS Manager |
+| 7 | [Helpdesk Ticketing — osTicket](./Project-5-Helpdesk-Ticketing/README.md) | ✅ Complete | XAMPP, osTicket, phpMyAdmin, Ticket Lifecycle, Web App Deployment |
 
 ---
 
@@ -27,15 +30,51 @@ Each project is self-contained with its own README and screenshots folder.
 
 ```
 home-lab/
+│
+├── README.md
+│
 ├── Project-1-Active-Directory/
 │   ├── README.md
 │   └── screenshots/
-│       └── Capture_1.JPG ... Capture_32.JPG
 │
-└── Project-2-Domain-Join/
+├── Project-2-Domain-Join/
+│   ├── README.md
+│   └── screenshots/
+│
+├── Project-3-Helpdesk-Simulation/
+│   ├── README.md
+│   ├── Scenario-1/
+│   │   ├── README.md
+│   │   └── screenshots/
+│   ├── Scenario-2/
+│   │   ├── README.md
+│   │   └── screenshots/
+│   ├── Scenario-3/
+│   │   ├── README.md
+│   │   └── screenshots/
+│   └── Scenario-4/
+│       ├── README.md
+│       └── screenshots/
+│
+├── Project-4-Network-Troubleshooting/
+│   ├── README.md
+│   ├── Scenario-1-Ping/
+│   │   └── screenshots/
+│   ├── Scenario-2-IPConfig/
+│   │   └── screenshots/
+│   ├── Scenario-3-NSLookup/
+│   │   └── screenshots/
+│   ├── Scenario-4-Tracert/
+│   │   └── screenshots/
+│   └── Scenario-5-Network-Issue/
+│       └── screenshots/
+│
+└── Project-5-Helpdesk-Ticketing/
     ├── README.md
-    └── screenshots/
-        └── Capture_1.JPG ... Capture_11.JPG
+    ├── Scenario-1-Installation/
+    │   └── screenshots/
+    └── Scenario-2-Ticketing/
+        └── screenshots/
 ```
 
 ---
