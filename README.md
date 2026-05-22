@@ -22,7 +22,7 @@ Each project is self-contained with its own README and screenshots folder.
 | 2 | [Domain Join — Windows 10 Client](./Project-2-Domain-Join/README.md) | ✅ Complete | VirtualBox Networking, Static IP, Domain Join, AD Authentication |
 | 3 | [Helpdesk Simulation Scenarios](./Project-3-Helpdesk-Simulation/README.md) | ✅ Complete | Account Lockout, Password Reset, User Onboarding, Disable/Enable |
 | 4 | [Network Troubleshooting](./Project-4-Network-Troubleshooting/README.md) | ✅ Complete | ping, ipconfig, nslookup, tracert, Firewall Rules, DNS Manager |
-| 7 | [Helpdesk Ticketing — osTicket](./Project-5-Helpdesk-Ticketing/README.md) | ✅ Complete | XAMPP, osTicket, phpMyAdmin, Ticket Lifecycle, Web App Deployment |
+| 5 | [Helpdesk Ticketing — osTicket](./Project-5-Helpdesk-Ticketing/README.md) | ✅ Complete | XAMPP, osTicket, phpMyAdmin, Ticket Lifecycle, Web App Deployment |
 
 ---
 
