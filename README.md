@@ -1,4 +1,4 @@
-# 🏠 Home Lab — IT Projects Portfolio
+# 🏠 Home Lab - IT Projects Portfolio
 
 **Built by:** Mayank Rale  
 **GitHub:** [github.com/Mayank037/home-lab](https://github.com/Mayank037/home-lab)  
