@@ -1,4 +1,4 @@
-# 🖥️ Active Directory Home Lab — Windows Server 2022
+# 🖥️ Active Directory Home Lab - Windows Server 2022
 
 **Built by:** Mayank Rale  
 **GitHub:** [github.com/Mayank037/home-lab](https://github.com/Mayank037/home-lab)  
